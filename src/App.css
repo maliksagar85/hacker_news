@@ -1,0 +1,104 @@
+.header{
+  background: #ff6600;
+  width: 100%;
+}
+
+.header img {
+  border: 1px solid white;
+  margin-right: 10px
+}
+
+span.new.active a {
+  color:white; 
+}
+
+.new {
+  padding-left: 10px;
+}
+.header span{
+  font-size: 12px;
+}
+.header span a{
+  color: black;
+  text-decoration: none;
+}
+.header .hacker{
+  font-size: 15px;
+}
+
+.table>thead>tr>th.header{
+  padding: 5px;
+}
+
+td{
+  font-family: Verdana, Geneva, sans-serif;
+    font-size: 10pt;
+}
+.story-url{
+  font-size: 11px;
+}
+.table tbody th{
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 10pt;
+  color: #828282;
+}
+.table tbody th i{
+  padding-top: 5px;
+  font-size: 10pt;
+  color: #828282;
+}
+
+.header .span-one{
+  color: #fff; 
+  margin-right: 5px;
+}
+
+.header .span-two{
+  color: #000; 
+  margin-right: 5px;
+}
+
+.more{
+  color: #ff6622;
+  margin-left: 100px;
+}
+
+.story-auther, .story-date{
+  color: gray; 
+  font-size: 14px; 
+  font-weight: 'bold';
+}
+
+.story-unvote{
+  color: gray; 
+  font-size: 14px; 
+  font-weight: 'bold';
+  cursor: pointer;
+}
+
+ .story-url a{
+  color: gray; 
+  font-size: 14px; 
+  font-weight: 'bold';
+}
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th{
+  border: none;
+}
+.story-auther b{
+  color: #000;
+}
+
+.story-hide{
+  color: #000; 
+  font-size: 14px; 
+  cursor: pointer;
+}
+.fa {
+  cursor: pointer;
+}
+
+.container {
+  background-color: rgb(246, 246, 239);
+  padding-right: 0;
+  padding-left: 0;
+}
